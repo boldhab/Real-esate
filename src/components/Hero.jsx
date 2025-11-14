@@ -2,6 +2,7 @@
 import backgroundImg from "../assets/header_img.png";
 
 const Hero = () => (
+  
   <section  style={{
           backgroundImage: `url(${backgroundImg})`,
           backgroundSize: "cover",
