@@ -78,13 +78,13 @@ src/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+git clone    https://github.com/boldhab/Real-esate.git
 ```
 
 ### 2️⃣ Go to the project directory
 
 ```bash
-cd REPO_NAME
+cd Real-esate
 ```
 
 ### 3️⃣ Install dependencies
@@ -103,19 +103,6 @@ Your app is now running locally 🎉
 
 ---
 
-## 📸 Screenshots (optional)
-
-> You can add screenshots here.
-> Example:
-> `![Screenshot](./screenshots/home.png)`
-
----
-
-## 🌐 Live Demo (optional)
-
-If deployed on Vercel or Netlify, add link here.
-
----
 
 ## 🤝 Contributing
 
@@ -124,9 +111,7 @@ If you encounter issues, feel free to open an issue in the repository.
 
 ---
 
-## 📜 License
 
-This project is open-source and available under the **MIT License**.
 
 ---
 
