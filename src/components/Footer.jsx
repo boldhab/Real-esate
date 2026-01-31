@@ -28,7 +28,7 @@ const Footer = () => {
        
         <div>
           <h4 className="font-semibold mb-4">Contact</h4>
-          <p className="text-sm mb-2">📍 123 Main Street, Los Angeles, CA</p>
+          <p className="text-sm mb-2">📍 123 Main Street, Addis Abeba</p>
           <p className="text-sm mb-2">📞 +1 234 567 890</p>
           <p className="text-sm mb-2">📧 info@realestate.com</p>
         </div>
