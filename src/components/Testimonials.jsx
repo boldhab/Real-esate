@@ -12,7 +12,7 @@ const Testimonials = () => (
     viewport={{ once: true }}
     variants={{ show: { transition: { staggerChildren: 0.2 } } }}
   >
-    <h2 className="text-3xl font-semibold text-center text-emerald-600 mb-8">
+    <h2 className="text-4xl font-semibold text-center text-emerald-600 mb-8">
       What Our Clients Say
     </h2>
     <div className="grid md:grid-cols-3 gap-8">
@@ -21,12 +21,12 @@ const Testimonials = () => (
           <div className="flex items-center mb-4">
             <img src={testimonial.image} alt={testimonial.alt} className="w-12 h-12 rounded-full mr-4 object-cover" />
             <div>
-              <h3 className="font-semibold">{testimonial.name}</h3>
-              <p className="text-gray-500 text-sm">{testimonial.title}</p>
+              <h3 className="text-lg font-semibold">{testimonial.name}</h3>
+              <p className="text-gray-500 text-base">{testimonial.title}</p>
             </div>
           </div>
-          <p className="italic text-gray-600 mb-2">"{testimonial.text}"</p>
-          <p className="text-emerald-600 font-bold">Rating: {testimonial.rating}⭐</p>
+          <p className="italic text-gray-600 text-base mb-2">"{testimonial.text}"</p>
+          <p className="text-emerald-600 text-base font-bold">Rating: {testimonial.rating}⭐</p>
         </motion.div>
       ))}
     </div>

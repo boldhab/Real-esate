@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+:root {
+	font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+body {
+	font-size: 16px;
+	line-height: 1.6;
+	color: #111827;
+}
+
+@media (min-width: 768px) {
+	body {
+		font-size: 17px;
+	}
+}
