@@ -98,7 +98,6 @@ npm run dev
 
 Your app is now running locally 🎉
 
----
 
 
 ## 🤝 Contributing
