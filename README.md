@@ -100,9 +100,5 @@ Your app is now running locally 🎉
 
 
 
-## 🤝 Contributing
-
-Pull requests and suggestions are welcome!
-If you encounter issues, feel free to open an issue in the repository.
 
 ## Developed by  Habtamu Befekadu
